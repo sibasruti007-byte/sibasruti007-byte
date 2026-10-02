@@ -1,39 +1,18 @@
+# 💫 About Me:
+### About Me<br><br>I design and build **full-stack web applications** with modern technologies. My most recent project is an **AI Interview Platform** featuring adaptive technical/behavioral interviews, resume-based context, and automated skill-gap analysis.<br><br>🔭 **Currently building:** Full-stack web applications — scalable APIs, authentication, real-time features, and AI-powered functionality<br>👯 **Looking to collaborate on:** Open-source projects, real-time collaboration tools, AI-integrated applications, and full-stack web apps<br>🤝 **Looking for help with:** Scaling backend architecture, optimizing real-time features, system design, and production-level application development<br>🌱 **Currently learning:** Advanced full-stack development, system design, Next.js, backend architecture, and deeper LLM application development<br>💬 **Ask me about:** JavaScript, Python, React.js, Node.js, Express.js, MongoDB, REST APIs, JWT authentication, RBAC, and full-stack development<br>⚡ **Fun fact:** I built a real-time AI pair-programming platform with live code synchronization — combining full-stack development with AI-powered features.<br><br>🛠️ **Tech Stack**<br><br>**Languages:** JavaScript, Python<br>**Frontend:** React.js, Next.js, HTML, CSS<br>**Backend:** Node.js, Express.js<br>**Database:** MongoDB<br>**APIs & Auth:** REST APIs, JWT, Access/Refresh Tokens, RBAC<br>**Real-Time:** Socket.IO, WebSockets<br>**AI Integration:** LLM APIs, AI-powered application features<br>**Tools:** Git, GitHub, VS Code<br>
 
-<h1 align="center">Hi, I'm Sibaprasad Patra 👋</h1> <h3 align="center">Full-Stack Developer | AI Integration Enthusiast | Building AI-Powered Platforms</h3> <p align="center"> <a href="https://linkedin.com/in/sibaprasad-patra-b094542a1"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+platforms;Real-time+systems+%7C+Socket.IO+%7C+Live+code+sync;Exploring+Python+for+AI%2FML;Always+shipping%2C+always+learning" alt="Typing SVG" /> </p>
-🚀 About Me
-I design and build AI-powered full-stack platforms. My most recent project is an AI interview platform featuring adaptive technical/behavioral interviews, resume-based context, and automated skill-gap analysis.
 
-🔭 Currently building: AI interview platform — adaptive interviews, resume parsing, skill-gap analysis
-👯 Looking to collaborate on: Open-source AI integrations, real-time collaboration tools, full-stack apps (React/Next.js + Node.js + Python)
-🤝 Looking for help with: Scaling backend architecture, optimizing real-time features (Socket.IO, live code sync), Python for AI/ML
-🌱 Currently learning: Python, advanced system design, blockchain integration, deeper LLM application development
-💬 Ask me about: JavaScript, Python, React.js, Node.js, Express.js, MongoDB, REST APIs, JWT auth (access/refresh rotation, RBAC)
-⚡ Fun fact: I built a real-time AI pair-programming platform with live code sync — coding with AI, not just on it
-🛠️ Tech Stack
-Languages
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
 
-Show Image Show Image Show Image Show Image Show Image
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sibasruti007-byte &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sibasruti007-byte &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sibasruti007-byte &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Frontend
+---
+[![](https://komarev.com/ghpvc/?username=sibasruti007-byte &icon=0&color=0)](https://visitcount.itsvg.in)
 
-Show Image Show Image Show Image Show Image Show Image
-
-Backend & Real-time
-
-Show Image Show Image Show Image Show Image Show Image
-
-Databases
-
-Show Image Show Image
-
-Cloud & DevOps
-
-Show Image Show Image Show Image Show Image
-
-Tools
-
-Show Image Show Image Show Image
-
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.shion.dev/api?username=sibasruti007-byte&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sibasruti007-byte&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=sibasruti007-byte&theme=dark&hide_border=true" /> </p>
-<p align="center"> <a href="https://linkedin.com/in/sibaprasad-patra-b094542a1">Let's connect on LinkedIn</a> · <img src="https://komarev.com/ghpvc/?username=sibasruti007-byte&icon=0&color=0&style=flat-square" alt="Profile views" /> </p> <p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
